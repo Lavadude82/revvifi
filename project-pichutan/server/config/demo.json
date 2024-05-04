@@ -1,0 +1,10 @@
+{   
+    "port":"8082",
+    "certificates":
+    {
+        "notice_comment":"PATH MUST BE RELATIVE TO main.js",
+        "passphrase":"example",
+        "key":"./ssl/cert.pem",
+        "cert":"./ssl/key.pem"
+    }
+}
